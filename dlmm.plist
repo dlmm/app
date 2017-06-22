@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://static.dailianmama.com/tool/dlmmqy/dlmm1.1.15_2.ipa</string>
+					<string>http://static.dailianmama.com/tool/dlmmqy/dlmm20170622.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sy37.yhjyj.ppiqy</string>
+				<string>com.bichonfrise.fenjiajia</string>
 				<key>bundle-version</key>
-				<string>1.1.15</string>
+				<string>1.1.16</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
