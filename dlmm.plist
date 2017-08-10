@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://static.dailianmama.com/tool/dlmmqy/dlmm20170705.ipa</string>
+					<string>http://static.dailianmama.com/tool/dlmmqy/dlmm20170810.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.HangzhouDingdangTechnology.jiangGanCity17</string>
+				<string>com.liebao.dlmm</string>
 				<key>bundle-version</key>
 				<string>1.1.16</string>
 				<key>kind</key>
